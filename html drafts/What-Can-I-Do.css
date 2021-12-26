@@ -1,0 +1,234 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-tabs-1 {
+  min-height: 494px;
+  margin-top: 53px;
+  margin-bottom: 53px;
+  height: auto;
+}
+
+.u-section-1 .u-tab-item-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-tab-link-1 {
+  font-size: 1.25rem;
+  background-image: none;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+
+.u-section-1 .u-tab-item-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-tab-link-2 {
+  font-size: 1.25rem;
+  background-image: none;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+
+.u-section-1 .u-tab-link-3 {
+  font-size: 1.25rem;
+  background-image: none;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+
+.u-section-1 .u-tab-item-4 {
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-tab-link-4 {
+  font-size: 1.25rem;
+  background-image: none;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+
+.u-section-1 .u-tab-item-5 {
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-tab-link-5 {
+  font-size: 1.25rem;
+  background-image: none;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+
+.u-section-1 .u-tab-item-6 {
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-tab-link-6 {
+  font-size: 1.25rem;
+  background-image: none;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+
+.u-section-1 .u-image-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("images/x1.jpg");
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  line-height: 1.8;
+  text-align: left;
+  font-size: 1.125rem;
+  text-shadow: 2px 2px 8px rgba(128,128,128,1);
+  margin: 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("images/x2.jpg");
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0 0 30px;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.8;
+  text-align: left;
+  font-size: 1.125rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 113px 94px 0;
+}
+
+.u-section-1 .u-image-3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("images/x3.png");
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  line-height: 1.8;
+  text-align: left;
+  font-size: 1.125rem;
+  margin: 0 41px;
+}
+
+.u-section-1 .u-image-4 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("images/x4.jpg");
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-align: left;
+  margin: 0 19px;
+}
+
+.u-section-1 .u-image-5 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("images/x5.jpg");
+  filter: brightness(0.9);
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-5 {
+  line-height: 1.8;
+  text-align: left;
+  font-size: 1rem;
+  margin: 57px 53px 0;
+}
+
+.u-section-1 .u-image-6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("images/x6.jpg");
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-6 {
+  line-height: 1.8;
+  text-align: left;
+  font-size: 1.25rem;
+  margin: 0 93px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    filter: brightness(0.5);
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-image-2 {
+    filter: brightness(0.5);
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    filter: brightness(0.5);
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-4 {
+    filter: brightness(0.5);
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-5 {
+    filter: brightness(0.5);
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-6 {
+    filter: brightness(0.5);
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
