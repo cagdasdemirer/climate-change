@@ -22,6 +22,6 @@ app()
 ```
 It is a DSS application that includes the calc_tempature function and interacts with the user and provides predictions. No input is required to call the  app() function. It is available in notebook2.ipynb.
 ```sh
-calc_tempature(country, year, month, option1 = 0,option2 = 0,option3 = 0,option4 = 0,option5 = 0,option6 = 0)
+calc_temperature()
 ```
 It is a function that calculates the effect of variables on the values ​​obtained with our estimation model and presents it to the user as a report. It needs inputs such as country, year, month and the transition rates of various sectors to green technologies. While modeling how technological developments affect carbon emissions, Global Carbon Project 2010 Sectoral carbon emission percentages were taken as reference.
